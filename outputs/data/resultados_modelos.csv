@@ -1,0 +1,5 @@
+,Accuracy,Precision (Sim),Recall (Sim),F1 (Sim)
+Regressão Logística,0.7424,0.4836,0.4942,0.4889
+Árvore de Decisão,0.7466,0.4939,0.6838,0.5736
+Random Forest,0.7474,0.4952,0.7047,0.5817
+Random Forest (GridSearchCV),0.7505,0.4996,0.7016,0.5836
